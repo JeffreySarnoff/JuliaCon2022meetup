@@ -1,2 +1,2 @@
-# JuliaCon2022meetup
-slides from my presentation "Using Julia Well"
+## JuliaCon2022meetup
+#### slides from "Using Julia Well" (Julia Users Group NYC)
