@@ -1,2 +1,2 @@
 ## JuliaCon2022meetup
-#### slides from "Using Julia Well" (Julia Users Group NYC)
+#### slides from "Using Julia Well" (Julia Users Group NYC presentation)
