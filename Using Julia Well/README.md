@@ -1,2 +1,2 @@
 ## Using Julia Well
-#### Mr. Sarnoff's Slides and Notes 
+#### Jeffrey's Slides and Notes 
